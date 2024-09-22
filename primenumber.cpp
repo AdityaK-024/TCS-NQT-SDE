@@ -1,4 +1,4 @@
-//To Check Whether Prime Or Not
+//To Check Whether a Number is Prime Or Not
 //Problem on Numbers
 #include<iostream>
 #include<math.h>
